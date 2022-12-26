@@ -11,18 +11,7 @@ import AddTask from "./components/AddTask.jsx";
 import TaskDetails from "./components/TaskDetails.jsx";
 
 function App() {
-  const [tasks, setTasks] = useState([
-    {
-      id: "1",
-      title: "Estudar React",
-      completed: false,
-    },
-    {
-      id: "2",
-      title: "Estudar Inglês",
-      completed: true,
-    },
-  ]);
+  const [tasks, setTasks] = useState([]);
 
   useEffect(() => {
       const fetchTasks = async () => {
