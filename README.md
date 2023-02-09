@@ -1,10 +1,17 @@
-# <a href="https://to-do-list-five-theta.vercel.app/">ToDoList</a>
+<h1 align="center">✔️To Do List</h1>
+<p align="center">
+  <a href="https://to-do-list-five-theta.vercel.app/">Ver projeto</a>
+</p>
 
-## 📑 Descrição:
+<div align="center">
+  <img align="center" src="https://user-images.githubusercontent.com/111407140/217943977-4850e329-3174-4960-9d56-d807856a7e3d.PNG" alt="screenshot" width="400px">
+</div>
+
+## ❔ Descrição:
 Projeto de uma lista de tarefas feita para praticar meus conhecimentos de javascript e react principalmente e fazendo o consumo de uma api.
 Projeto desenvolvido durante a aula do curso de react no canal "dicasparadevs" no youtube 
 
-## 👨‍💻Tecnologias usadas:
+## 🚀 Tecnologias usadas:
 
 <div style="display: inline_block">
   <img alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
@@ -14,5 +21,3 @@ Projeto desenvolvido durante a aula do curso de react no canal "dicasparadevs" n
   <img alt="vite" src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
   
 </div>
-
-
